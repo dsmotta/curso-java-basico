@@ -22,7 +22,7 @@ public class OperadoresAritmeticos {
         resultado = resultado % 7; // Operador MOD onde retorna o resto da divisão
         System.out.println(resultado);
 
-        // Operações de Strings concatenadas
+        // Operacoes de Strings concatenadas
         String primeiroNome = "Esta é";
         String segundoNome = " uma String concatenada.";
         String terceiroNome = primeiroNome + segundoNome;
